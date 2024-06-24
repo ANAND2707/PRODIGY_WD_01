@@ -8,8 +8,11 @@ This project is a simple yet elegant landing page designed for a car dealership.
 
 ### Features
 Responsive design
+
 Modern and clean layout
+
 Easy navigation
+
 Attractive visuals and animations
 
 
