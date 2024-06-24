@@ -2,7 +2,7 @@
 
 ## Responsive Landing Page
 
-##Car Dealership Landing Page
+## Car Dealership Landing Page
 
 Welcome to the Car Dealership Landing Page repository! This project showcases a modern and responsive landing page for a car dealership, built using HTML and CSS.
 
