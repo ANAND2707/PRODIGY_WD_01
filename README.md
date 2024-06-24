@@ -12,14 +12,19 @@
 
 ### Features
 ➼ Responsive design
+
 ➼ Modern and clean layout
+
 ➼ Easy navigation
+
 ➼ Attractive visuals and animations
 
 
 ### Technologies Used
 ➼ HTML5
+
 ➼ CSS3
+
 ➼ JavaScript
 
 
